@@ -1,7 +1,7 @@
 name: Feauture
 description: File a bug report
-title: "[Feauture;]: "
-labels: ["bug", "triage"]
+title: "[Feauture]: "
+labels: ["enhancement", "triage"]
 projects: ["octo-org/1", "octo-org/44"]
 assignees:
   - octocat
@@ -13,7 +13,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        Thanks for taking the time to fill out this bug report!      placeholder: ex. email@example.com
+        Thanks for taking the time to fill out this bug report!      placeholder: ex. Sertha Taweewattana
     validations:
       required: false
   - type: dropdown
