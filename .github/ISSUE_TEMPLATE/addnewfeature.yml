@@ -12,8 +12,8 @@ body:
       label: Contact Details
   - type: markdown
     attributes:
-      value: Thanks for taking the time to fill out this bug report!      
       placeholder: ex. Sertha Taweewattana
+      value: Thanks for taking the time to fill out this bug report!      
     validations:
       required: false
   - type: dropdown
