@@ -10,9 +10,9 @@ body:
     id: contact
     attributes:
       label: Contact Details
+      placeholder: ex. Sertha Taweewattana
   - type: markdown
     attributes:
-      placeholder: ex. Sertha Taweewattana
       value: Thanks for taking the time to fill out this bug report!      
     validations:
       required: false
