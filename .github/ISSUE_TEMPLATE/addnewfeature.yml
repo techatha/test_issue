@@ -14,7 +14,7 @@ body:
     attributes:
       value: |
         Thanks for taking the time to fill out this bug report!      
-        placeholder: ex. Sertha Taweewattana
+      placeholder: ex. Sertha Taweewattana
     validations:
       required: false
   - type: dropdown
